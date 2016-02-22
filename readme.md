@@ -1,5 +1,5 @@
-# show-desktop
-// => Minimize all open windows and show desktop. Currently only works on Ubuntu
+# sd-cli
+// => Command to minimize all open windows and show desktop from the terminal. Currently only works on Ubuntu
 
 ## CLI
 
@@ -8,13 +8,13 @@ $ npm install --global show-desktop
 ```
 
 ```
-$ show-desktop --help
+$ sd-cli --help
 
   Usage
-    show-desktop
+    sd-cli
 
   Examples
-    $ show-desktop
+    $ sd-cli
 ```
 
 ## License

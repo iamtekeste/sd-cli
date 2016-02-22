@@ -1,5 +1,5 @@
 'use strict';
-module.exports = function (str, opts) {
-	// return str + ' & ' + (opts.postfix || 'rainbows');
-	console.log('fara')
+var robot = require('robotjs')
+module.exports = function () {
+	robot.keyTap('D', ['command', 'control']);
 };

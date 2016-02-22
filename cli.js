@@ -5,7 +5,6 @@ var showDesktop = require('./');
 
 var cli = meow([
 	'Usage',
-	'  $ show-desktop',
+	'  $ sd-cli',
 ]);
-
-console.log(showDesktop());
+showDesktop();
