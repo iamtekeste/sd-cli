@@ -1,5 +1,5 @@
 # sd-cli
-// => Command to minimize all open windows and show desktop from the terminal. Currently only works on Ubuntu
+// => Command to minimize all open windows and show desktop from the terminal. Currently only works on Ubuntu.
 
 ## CLI
 
