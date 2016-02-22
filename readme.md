@@ -16,7 +16,8 @@ $ sd-cli --help
   Examples
     $ sd-cli
 ```
-### Maybe you can suggest a better name for the command ?
+
+#### This uses the wonderful  [RobotJs](https://github.com/octalmage/robotjs/). If RobotJs build is failing on Linux follow the instructions on this [issue](https://github.com/octalmage/robotjs/issues/17).
 
 
 ## License
