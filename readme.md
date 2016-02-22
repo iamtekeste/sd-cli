@@ -17,6 +17,8 @@ $ sd-cli --help
     $ sd-cli
 ```
 ### Maybe you can suggest a better name for the command ?
+
+
 ## License
 
 MIT © [Tekeste G](https://github.com/iamtekeste)

@@ -1,6 +1,6 @@
 {
   "name": "sd-cli",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "",
   "license": "MIT",
   "repository": "iamtekeste/sd-cli",
@@ -20,9 +20,10 @@
     "cli.js"
   ],
   "keywords": [
+    "show-desktop",
+    "minimize",
     "cli",
-    "cli-app",
-    ""
+    "cli-app"
   ],
   "dependencies": {
     "meow": "^3.7.0",
