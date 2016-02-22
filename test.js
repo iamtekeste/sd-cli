@@ -1,6 +1,2 @@
-import test from 'ava';
-import fn from './';
-
-test('title', t => {
-	t.is(fn('unicorns'), 'unicorns & rainbows');
-});
+//not sure how i can test this yet
+console.log('not sure how i can test this yet');
