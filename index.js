@@ -5,5 +5,7 @@ module.exports = function () {
 		robot.keyTap('D', 'command');
 	} else if(process.platform === 'linux'){
 		robot.keyTap('D', ['command', 'control']);
+	} else if(process.platform === 'darwin'){
+		robot.keyTap('f11');
 	}
 };
